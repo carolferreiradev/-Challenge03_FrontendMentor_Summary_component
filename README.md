@@ -5,7 +5,7 @@
 
 <p align="center">
 Home
-  <img alt="home" src="" width="100%">
+  <img alt="home" src="https://github.com/carolferreiradev/Challenge03_FrontendMentor_Summary_component/blob/main/public/mentor.png" width="100%">
 </p>
 
 ## 💻 Projeto
