@@ -1,0 +1,7 @@
+.container span > .hero-background {
+  position: initial !important;
+  min-height: 45% !important;
+}
+.container .sounds-play img {
+  border-radius: 1rem 1rem 0 0;
+}
